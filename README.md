@@ -1,7 +1,13 @@
-# Multi-Page React-Navigation
+# Welcome to StackEdit!
 
-This is a simple product that demonstrates multi pages using react-navigation inside react-native. 
+This is a simple project that demonstrates multi pages using react-navigation inside react-native. Made with React Native (Expo Cli).
 
-Made with React Native.
+![Image](https://photos.app.goo.gl/APTQnCc2XkwhYD2p7)
 
-[DEMO](https://snack.expo.io/@haseebahmed/lab-8)
+## How to run the project:
+```sh
+$ npm install
+$ expo start
+```
+
+> Demo: [Expo Snack](https://snack.expo.io/@haseebahmed/lab-8)

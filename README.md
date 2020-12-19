@@ -2,8 +2,7 @@
 
 This is a simple project that demonstrates multi pages using react-navigation inside react-native. Made with React Native (Expo Cli).
 
-url <- "https://photos.app.goo.gl/APTQnCc2XkwhYD2p7"
-![](`r url`)
+![](https://drive.google.com/file/d/1ghVoaxMjZCUzIX_V7sP_PbLNFtLpDb5O/view?usp=sharing)
 
 ## How to run the project:
 ```sh
